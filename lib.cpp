@@ -1,5 +1,6 @@
 #include "lib.h"
-float max( float massimo[], int n, float m){
+
+float max(float massimo[], int n, float m){
 
     if (n==1){
         m=massimo[0];
