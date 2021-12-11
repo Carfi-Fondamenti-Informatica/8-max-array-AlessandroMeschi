@@ -14,8 +14,7 @@ int main() {
         float a=0;
         cin >> a;
         massimo[i]=a;
-
         }
-    cout << max(massimo, n, m) <<endl;
+    cout << max(massimo, n, m);
     return 0;
 }
