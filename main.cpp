@@ -10,11 +10,10 @@ int main() {
     float massimo [n];
 
     for(int i=0; i<n; i++){
-
         float a=0;
         cin >> a;
+        
         massimo[i]=a;
-
         }
     cout << max(massimo, n, m) <<endl;
     return 0;
