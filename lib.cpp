@@ -1,4 +1,6 @@
+#include <iostream>
 #include "lib.h"
+using namespace std;
 
 float max(float massimo[], int n, float m){
 
