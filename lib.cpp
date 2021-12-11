@@ -1,4 +1,3 @@
-#include <iostream>
 #include "lib.h"
 
 float max(float massimo[], int n, float m){
